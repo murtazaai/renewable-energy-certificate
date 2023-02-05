@@ -1,8 +1,16 @@
 [package]
-name = "energy-web"
+name = "rec0"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+frc46_token = "4.0.0"
+#orml-nft = "0.4.0"
+rcgen = "0.10.0"
+
+[workspace]
+members = [
+
+]

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../RenewableEnergyCertificate/.idea/energy-web.iml" filepath="$PROJECT_DIR$/../RenewableEnergyCertificate/.idea/energy-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rec0.iml" filepath="$PROJECT_DIR$/.idea/rec0.iml" />
     </modules>
   </component>
 </project>

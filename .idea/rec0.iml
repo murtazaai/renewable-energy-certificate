@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/rcgen/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rcgen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rcgen/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webpki/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webpki/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/x509-parser/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/x509-parser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/x509-parser/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/archillect-sc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/archillect-sc/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
