@@ -8,5 +8,5 @@
 ## Specification
 * The certificate authority defines authorized issuers.
 * An owner can claim their REC if they present signed proof from an issuer.
-* The RECs are representative of the US market: https://www.epa.gov/green-power-markets/renewable-energy-certificates-recs
+* The RECs are representative of the market.
 * The participants are entities without dedicated IT departments.
