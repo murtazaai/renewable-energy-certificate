@@ -11,7 +11,7 @@
 
 [package]
 edition = "2021"
-name = "rec0"
+name = "rec"
 version = "4.0.0"
 description = "Filecoin FRC-0046 fungible token reference implementation"
 readme = "README.md"
